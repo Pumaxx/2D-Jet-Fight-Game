@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>enemy.png</file>
+        <file>player.png</file>
+        <file>bg.jpg</file>
+        <file>bullet.png</file>
+        <file>bullet2.png</file>
+        <file>bullet3.png</file>
+        <file>bullet4.png</file>
+        <file>bullet5.png</file>
+        <file>bullet6.png</file>
+        <file>boom.png</file>
+        <file>boom1.png</file>
+        <file>boom2.png</file>
+        <file>boom3.png</file>
+        <file>boom4.png</file>
+        <file>boom5.png</file>
+        <file>boom6.png</file>
+        <file>boom7.png</file>
+        <file>boom8.png</file>
+        <file>boom9.png</file>
+        <file>boom10.png</file>
+        <file>boom11.png</file>
+        <file>boom12.png</file>
+        <file>boom13.png</file>
+        <file>boom14.png</file>
+        <file>boom15.png</file>
+        <file>boom16.png</file>
+        <file>boom17.png</file>
+        <file>boom18.png</file>
+        <file>boom19.png</file>
+        <file>boom20.png</file>
+        <file>boom21.png</file>
+        <file>boom22.png</file>
+        <file>boom23.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>bullet.mp3</file>
+        <file>bg.mp3</file>
+        <file>boom.mp3</file>
+        <file>Game_Over.mp3</file>
+    </qresource>
+</RCC>
