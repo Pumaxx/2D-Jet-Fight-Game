@@ -12,9 +12,9 @@ In this game your goal is to destroy enemy jets before they will reach bottom of
 </p>
 
 You can chose between 3 game modes:
-•	Classic
-•	Arcade
-•	Two Players
+-	Classic
+-	Arcade
+-	Two Players
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72915573/114377005-770a0380-9b86-11eb-8185-7e79e0624df4.png" />
@@ -29,15 +29,19 @@ You can chose between 3 game modes:
 In Arcade mode you can choose level you want to start but you lose option to save and load. Also Arcade and Classic have separate high score database. Each level have more enemies and they fly at you with higher speed.
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72915573/114376998-75d8d680-9b86-11eb-88ea-a93c372fdb2a.png" />
+  <img src="https://user-images.githubusercontent.com/72915573/114379523-3495f600-9b89-11eb-8a16-e286ba1b896f.png" />
 </p>
  
 Last mode is designed for two players. They compete with other to get higher score. Players have separate health and after reaching 0% player wait with end game screen until second player loses his. At the end scores are compared and the winner is announced.
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72915573/114377000-76716d00-9b86-11eb-931c-b6c3ace0d54a.png" />
+  <img src="https://user-images.githubusercontent.com/72915573/114376998-75d8d680-9b86-11eb-88ea-a93c372fdb2a.png" />
 </p>
 
 Next option is “High Scores”. Ten best scores are load from the data base for each mode and presented to the user.
- 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72915573/114377000-76716d00-9b86-11eb-931c-b6c3ace0d54a.png" />
+</p>
+
 Last option player can choose from the menu is “Options” where player can change volume of the background, explosion or shot.
